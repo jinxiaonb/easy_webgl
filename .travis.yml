@@ -1,0 +1,8 @@
+language:browser
+browser:
+  - "chrome"
+  - "firefox"
+  - "safari"
+  - "IE10+"
+service:
+  - "nginx"
