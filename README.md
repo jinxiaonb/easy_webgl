@@ -9,4 +9,5 @@ README.md：目录的说明及module的描述和使用方法
 =======
 # easy_webgl
 learning webgl
+mac
 >>>>>>> d6aa7741cb73305f44f0789df51a4837e9ec4ce2
